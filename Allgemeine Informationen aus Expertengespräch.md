@@ -1,0 +1,156 @@
+Zweck der Anwendung
+- vorerst nur auf essentielle Bestandteile fokussieren, nicht zu viele Features
+- aktuell: versch. Schubladen:
+     - Bilder, 
+     - Archivalien 
+     - Literatur
+     - Verknüpfung bald auch mit Druckgrafik
+- Ziel: 
+     - Verknüpfung / Historische Einordnung
+     - gezielte Suche unterstützen
+     - bestehende Daten vernetzen und an bestehende Datenquellen andocken
+     - Kontext für allgemeineres Publikum geben
+     - einfachere Navigation
+- Ereignisse zu Ort und Zeit
+     - Was passierte in der Region?
+     - evtl. Ort und Zeit als veränderbare Variablen
+- in 2 Ebenen
+     - erst allgemeinere Ebene
+     - eine abstrakte Ebene mit wichtigen Daten
+     - Weiterleitung auf bisherige Seite / Links zu aktueller Seite
+- Archivalien kontextualisieren
+     - erstmal nur mit den aktuellen Archivalien aus der DB arbeiten
+- zusätzlich min. 2 andere Seiten
+     - Listenansicht mit Gemälden links + Infos rechts
+          - Suchbegriffe highlighten
+     - Thumbnails größer als jetzt
+     - Zeitstrahl Ansicht (1. Ebene, Einstieg)
+
+Zeitstrahl
+- 1. Seite: Zeitstrahl
+     - keine unterschiedlichen Ebenen im Zeitstrahl
+- Zoom in Zeitstrahl u. Zeitraum
+- Zeitstrahl richtet sich an breitere Öffentlichkeit (für Kontextualisierung)
+     - Zugang für Laie
+          - nicht überfordern
+     - neue Dimension eröffnen, Besucher aus anderen Fachgebieten
+- Zeitstrahl für Übersichtlichkeit, kein neues Detailwissen
+- Aufbau sowohl vertikal als auch horizontal (vertikal = Informationen, horizontal = Zeit)
+
+Historische Informationen
+- relevante Personen:
+     - Cranach
+          - Dorf Wittenberg
+          - Kronach
+          - Erfindung der seriellen Fertigung
+          - Bestellung v. Altären bei Cranach
+          - Cranach als Apotheker
+     - Luther
+          - Junker Jörg
+     - Friedrich der Weise
+     - Albrecht von Brandenburg
+- wirtschaftlicher, politischer, kirchengeschichtlicher, sächsischer Kontext
+- relevante Daten
+     - 1500 - 1505 Wien
+          - welche Humanisten etc.?
+          - Allgemeines zur Stadt
+     - ab 1505 Wittenberg
+          - Position
+          - mit Werkstatt und anderen Künstlern beengt im Schloss
+     - 1512 Auszug aus Kirche
+          - evtl. auf Gebäude verweisen
+          - Thesenanschlag
+          - keine Arbeit mehr für Cranach
+          - Cranach verlegt neue Werke
+          - Druck der deutschen Bibel v. Cranach
+          - Verlagerung in Druckbereich
+          - Porträtmalerei
+          - mythologische Themen
+     - 1537 Hans Cranach stirbt in Bologna
+          - warum Bologna?
+     - 1547 Schlacht bei Mühlberg
+          - Johann Friedrich III. wird festgenommen
+          - Cranach folgt
+          - trifft Tizian
+          - zwischenzeitlich Pest
+          - Cranach d. Jüngere von Wittenberg nach Weimar
+     - um 1525
+          - Cranach arbeitet für Protestanten + Katholiken parallel
+          - wie funktioniert das?
+     - relevante Ereignisse
+          - Bauernkrieg
+               - Thomas Müntzer
+               - Wiederspiegelung in Gemälden v. Bauernkrieg
+     - Vergleich mit:
+          - Dürer
+          - Hohlbein
+          - Tizia
+
+weitere relevante Projekte
+- Recherche zu Geschichtsportalen (mitteldeutsche Geschichte)
+- Time Machine (EU-Projekt)
+- Buch: Lucas Cranach der Ältere - Meister, Marke, Moderne
+- RembrandtDatabase
+
+Funktionalitäten
+- Must Have:
+     - Sichtbarkeit im Netz (SEO)
+     - Glossar:
+          - Mal- u. Produktionstechnik
+          - Infos über Farben/Pigmente
+          - Malmaterial
+     - Filterkriterien für Bilder, Archivalien etc.
+          - Standardfilter auf 100 beste (Best Of)
+               - für Unterscheidung zw. allgemeinem Publikum + Experten
+          - Filtern nach Jahreszahlen, Orten etc.
+          - Zuschreibung, Datierung, Ort, Motiv (Filterkriterien)
+          - Schwellenwerte für Jahreszahlen (bei Filter)
+          - Auftraggeber
+     - inhaltsbasierte Suche
+          - Freitextfeld für Suche
+     - Priorisierung der Ergebnisse
+          - Detailsortierung über 3stelligen Zahlencode
+          - momentan nicht nach Qualität möglich
+          - nach Zeit nicht immer sinnvoll
+          - Reihenfolge der Vorschau nicht nach Datierung sondern nach spezieller Sortierreihenfolge
+- Interessant:
+     - Newsseite, Anmeldung zu Newsletter -> Events einbringen
+     - Erstmal keine eigenen Analytics
+          - Google Analytics reichen aus
+          - Nutzerzahlen, woher, wie lang
+          - interessant, aber niedrige Priorität
+          - wer verlinkt die Seite am meisten? (Webmaster Tools)
+- Weniger wichtig:
+     - Kalenderfunktion nicht relevant
+     - AR wäre spannend
+     - VR Museum wäre auch spannend
+     - AR/VR sind nicht im Hauptfokus
+     - wo hingen die Gemälde früher?
+- Unwichtig:
+     - keine kommerzielle Werbung 
+     - keinen Ort freihalten für "Aktuelles"
+          - eher Reiter auf Startseite anlegen
+
+User
+- Peers nach wichtigen Infos fragen
+- Sammler
+- Kunsthändler
+- allgemein Interessierte an Kunst/Zeit
+- 100.000 Besucher der Cranach Ausstellung
+- Studierende (Kunstgeschichte)
+- Laien (zufälliger Besuch)
+- Forscher/Experten (Kunstgeschichte, Kunsttechnologie/-restaurierung, Archivalien/Historiker)
+- Schüler (Ausarbeitung Recherchen)
+- für Forscher: Archivalien, aktuelle Forschungen am relevantesten, aber auch Zeitstrahl für Übersicht
+- Kostümbildner große Gruppe
+
+Endgeräte
+- professionelle Verwendung nicht am Smartphone
+- Tablet aufwärts wichtig
+- Smartphone: abgespeckte Version
+     - Favoriten für Smartphone ist interessant
+
+Sonstiges
+- nicht im kommerziellen Bereich
+- aktuell 150 Besucher pro Tag
+- seit 2011/2012
